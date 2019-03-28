@@ -1,4 +1,5 @@
 
+# Those are my notes
 
-## Python Tricks: A Buffet of Awesome Python Features
+## Book [Python Tricks: A Buffet of Awesome Python Features](python_tricks.ipynb)
 
