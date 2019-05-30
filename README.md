@@ -15,5 +15,5 @@ and your applications use the internet, then this book is for you.
 
 * [becomeautonomous.com](https://becomeautonomous.com/)
 * [Things you’re probably not using in Python 3 – but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
-* [deeplearning.ai]([https://www.deeplearning.ai/])
+* [deeplearning.ai](https://www.deeplearning.ai/)
 
