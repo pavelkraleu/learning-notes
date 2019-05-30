@@ -10,3 +10,10 @@ Awesome book to explore hidden corners of Python
 If you develop applications that have some kind of server/backend for storing or processing data, 
 and your applications use the internet, then this book is for you.
 ```
+
+# Candidates
+
+* [becomeautonomous.com](https://becomeautonomous.com/)
+* [Things you’re probably not using in Python 3 – but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
+* [deeplearning.ai]([https://www.deeplearning.ai/])
+
