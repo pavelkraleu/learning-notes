@@ -11,9 +11,6 @@ If you develop applications that have some kind of server/backend for storing or
 and your applications use the internet, then this book is for you.
 ```
 
-## [Notebook for random Python experiments](random_python_experiments.ipynb)
-
-
 # Candidates
 
 * [becomeautonomous.com](https://becomeautonomous.com/)
