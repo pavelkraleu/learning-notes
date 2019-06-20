@@ -11,6 +11,11 @@ If you develop applications that have some kind of server/backend for storing or
 and your applications use the internet, then this book is for you.
 ```
 
+## Course deeplearning.ai 
+
+* Neural Networks and Deep Learning
+    * [Week 2](deeplearning_ai/week_2.ipynb)
+
 # Candidates
 
 * [becomeautonomous.com](https://becomeautonomous.com/)

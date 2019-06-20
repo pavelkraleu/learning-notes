@@ -5,6 +5,7 @@ Three concerns that are important in most software systems :
 * *Scalability* - As the system grows (data, traffic, complexity), there should be a reasonable ways of dealing with the growth.
 * *Maintainability* - Over the time, many different people will work on the system, and they should all be able to work on it productively
 
+## Importance of percentile
 Mean is not z very good metric if you want to know "typical" response time, because it doesn't tell you how many users usually experienced that delay.  
 **Usually it is better to use percentiles**  Median is also known 50th percentile.  
 In order to figure out how bad your outliers are, you can look at higher percentiles: the 95th, 99th and 99.9th percentiles are common.
@@ -24,6 +25,8 @@ Ways how to do it effectively :
 * forward decay
 * t-digest
 * HdrHistogram
+
+## Architecture
 
 An architecture that is appropriate for one level of load is unlikely to cope with 10 times that load.  
 If you are working on a fast-growing service, it is therefore likely that you need to rethink your architecture every order of magnitude load increase - or perhaps even more often than that.
